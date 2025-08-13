@@ -22,7 +22,7 @@ jobs:
           ruby-version: "3.2.2"
           bundler-cache: true
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "127.0.0.1:8000"
+        run: bundle exec jekyll build
       - name: Upload artifact
         id: upload_artifact
         uses: actions/upload-artifact@v4
