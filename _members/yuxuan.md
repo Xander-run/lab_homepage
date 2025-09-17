@@ -10,10 +10,10 @@ description:
 lastname: Lu
 
 teaser: >
-  Yuxuan is a second-year Ph.D. student at Northeastern University in Computer Science, advised by Dakuo Wang. 
+  Yuxuan is a third-year Ph.D. student at Northeastern University in Computer Science, advised by Dakuo Wang. 
   His research interest lies in natural language processing and human-computer interaction, especially in training, 
-  running and utilizing Large Language Models effiently.
-  He is currently working as a intern applied scientist at Amazon A9.com.
+  running, and utilizing Large Language Model Agents to simulate human behavior.
+  He is currently working as an intern applied scientist at Amazon A9.com.
 profile:
   name: Yuxuan Lu #your fullname here
   align: right
