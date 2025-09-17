@@ -1,16 +1,16 @@
 ---
 layout: about
 inline: false
-group: "Research Assistant"
+group: PhD Student
 group_rank: 0 # do not change this
 team_frontpage: true
 
-title: Research Assistant
+title: PhD Student
 description:
 lastname: Zhao # your last name 
 
 teaser: >
-  Menglin Zhao is a Research Assistant at Northeastern University, advised by Prof. Dakuo Wang.
+  Menglin Zhao is a first-year Ph.D student at Northeastern University, advised by Prof. Dakuo Wang.
 profile:
   name: Menglin Zhao #your fullname here
   align: right
