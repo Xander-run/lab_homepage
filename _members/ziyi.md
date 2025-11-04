@@ -10,9 +10,9 @@ description:
 lastname: Wang # your last name 
 
 teaser: >
-  Ziyi Wang is a first-year Ph.D. student in Computer Science at Northeastern University advised by Prof. Dakuo Wang.
-  Her research interest lies in Natural Language Processing and Human-Computer Interaction, with a focus on LLM Agents.
-  (She is a cat lover BTW)
+  Ziyi Wang is a second-year Ph.D. student in Computer Science at Northeastern University advised by Prof. Dakuo Wang.
+  Her research interest lies in Natural Language Processing, with a specific focus on LLM Agents.
+  (she has a super cute cat called Cakecake, click to see pictures!)
 profile:
   name: Ziyi Wang #your fullname here
   align: right
