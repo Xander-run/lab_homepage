@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Postdoc
+group: Alumni
 group_rank: 2
 team_frontpage: true
 

@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Research Assistant
+group: Alumni
 group_rank: 0 # do not change this
 team_frontpage: true
 
